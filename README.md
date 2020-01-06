@@ -15,3 +15,6 @@ The idea is to see if we can use this dataset to
 2.	Identify whether the water sources availability will be able to meet the needs till the subsequent monsoon?
 3.	How bad is the current water crisis compared to previous years?
 
+
+</BR> Licensed under [MIT License](LICENSE)
+
